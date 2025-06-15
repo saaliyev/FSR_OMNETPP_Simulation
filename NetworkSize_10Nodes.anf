@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<analysis version="2">
+    <inputs>
+        <input pattern="results/NetworkSize_10Nodes-*.vec"/>
+        <input pattern="results/NetworkSize_10Nodes-*.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-1.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-10.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-11.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-12.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-13.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-14.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-15.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-16.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-17.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-18.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-19.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-2.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-20.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-21.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-22.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-23.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-24.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-25.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-26.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-27.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-28.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-29.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-3.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-4.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-5.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-6.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-7.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-8.sca"/>
+        <input pattern="results/NetworkSize_10Nodes-9.sca"/>
+    </inputs>
+    <charts/>
+</analysis>

@@ -1,0 +1,25 @@
+# OMNeT++ build artifacts and results
+out/
+results/
+*.o
+*.d
+*.exe
+*.dll
+*.so
+*.dylib
+.oppbuild
+.oppenv
+.DS_Store # macOS specific
+*~        # backup files
+# OMNeT++ log files
+*.log
+# OMNeT++ simulation output (vectors and scalars)
+*.vec
+*.sca
+# Temporary files from simulations
+*.tmp
+# OMNeT++ environment-related files
+.nedfolders
+.safetysignals
+# OMNeT++ generated code (if any)
+# generated-src/
